@@ -1,0 +1,184 @@
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\WebClientProject.dll.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\WebClientProject.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\WebClientProject.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\Antlr3.Runtime.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\Newtonsoft.Json.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Net.Http.Formatting.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Cors.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Helpers.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Http.Cors.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Http.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Mvc.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Optimization.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Razor.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.Razor.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\WebGrease.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\Newtonsoft.Json.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Net.Http.Formatting.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Http.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Http.Cors.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Helpers.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Mvc.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Optimization.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.Razor.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\System.Web.WebPages.Razor.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\Antlr3.Runtime.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\ru\System.Web.Http.resources.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\bin\ru\System.Web.Optimization.resources.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\obj\Debug\WebClientProject.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\obj\Debug\WebClientProject.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\clinic_4.0\Hueta2.0\WebServer\WebClientProject\obj\Debug\WebClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\WebClientProject.dll.config
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\WebClientProject.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\WebClientProject.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\Antlr3.Runtime.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\dotless.Core.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\Newtonsoft.Json.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Cors.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Helpers.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Http.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Mvc.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Optimization.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Razor.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\WebGrease.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\Newtonsoft.Json.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Http.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Optimization.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Helpers.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Mvc.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.Razor.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\bin\Antlr3.Runtime.pdb
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\obj\Debug\WebClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\obj\Debug\WebClientProject.dll
+C:\Users\Alina\Documents\ТПУ\4 курс\МиС проект. СиТ\vet clinic final\WebClientProject\obj\Debug\WebClientProject.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\WebClientProject.dll.config
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\WebClientProject.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\WebClientProject.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\Antlr3.Runtime.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\dotless.Core.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\Newtonsoft.Json.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Cors.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Helpers.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Http.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Mvc.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Optimization.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Razor.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\WebGrease.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\Newtonsoft.Json.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Http.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Optimization.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Helpers.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Mvc.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.Razor.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.xml
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\bin\Antlr3.Runtime.pdb
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\obj\Debug\WebClientProject.csprojResolveAssemblyReference.cache
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\obj\Debug\WebClientProject.dll
+D:\Учеба 4 курс\8 семестр\Курсач (МиС проект. СиТ)\Git\конченная версия\vet clinic final\WebClientProject\obj\Debug\WebClientProject.pdb
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\WebClientProject.dll.config
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\WebClientProject.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\WebClientProject.pdb
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\Antlr3.Runtime.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\dotless.Core.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\Newtonsoft.Json.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Cors.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Helpers.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Http.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Mvc.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Optimization.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Razor.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\WebGrease.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\Newtonsoft.Json.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Http.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Http.Cors.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Optimization.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.pdb
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Optimization.Less.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Helpers.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Mvc.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.Razor.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\bin\Antlr3.Runtime.pdb
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\obj\Debug\WebClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\obj\Debug\WebClientProject.dll
+C:\Users\Alina\Desktop\vet clinic final\WebClientProject\obj\Debug\WebClientProject.pdb
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\WebClientProject.dll.config
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\WebClientProject.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\WebClientProject.pdb
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\Antlr3.Runtime.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\dotless.Core.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\Newtonsoft.Json.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Cors.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Helpers.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Http.Cors.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Http.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Mvc.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Optimization.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Optimization.Less.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Razor.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\WebGrease.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\Newtonsoft.Json.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Http.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Http.Cors.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Optimization.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Optimization.Less.pdb
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Optimization.Less.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Helpers.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Mvc.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.Razor.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\bin\Antlr3.Runtime.pdb
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\obj\Debug\WebClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\obj\Debug\WebClientProject.dll
+C:\Users\Alina\Desktop\VetClinic\WebClientProject\obj\Debug\WebClientProject.pdb
